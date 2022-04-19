@@ -1,0 +1,15 @@
+.logo img {
+  width: 200px;
+}
+
+.slide3:before {
+  content: "";
+  background: url(../img/aics.jpg) no-repeat center center;
+  background-color: blueviolet;
+}
+
+.slide0:before,
+.slide1:before,
+.slide2:before {
+  background-color: blueviolet;
+}
